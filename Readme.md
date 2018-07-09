@@ -1,4 +1,4 @@
-# Exportet members filepaths
+# Export members filepaths
 
 ## Why?
 
