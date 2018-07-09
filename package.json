@@ -1,0 +1,26 @@
+{
+  "name": "export-member-filepath",
+  "version": "0.0.1",
+  "description": "Gets exported member original filepath",
+  "main": "index.js",
+  "module": "main.js",
+  "author": "Roman M. Koss",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "t": "yarn test",
+    "t:w": "yarn test:watch"
+  },
+  "dependencies": {
+    "esm": "^3.0.62"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.3.0",
+    "regenerator-runtime": "^0.12.0"
+  }
+}
